@@ -1,2 +1,2 @@
 # LinkedList
-Simple app to explain Linked List in C++
+Simple application to explain Linked List in C++
